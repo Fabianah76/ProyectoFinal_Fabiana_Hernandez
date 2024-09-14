@@ -17,23 +17,3 @@ Tecnologías utilizadas:
 •	JavaScript: Para la interacción básica del carrito y la navegación.
 •	Imágenes y recursos multimedia: Se utiliza contenido visual personalizado para darle una identidad única al sitio.
 
-Estructura del proyecto: 
-
-├── assets
-│   ├── images
-│   │   └── logohilados.png          # Logo de la tienda
-│   └── ...
-├── css
-│   ├── bootstrap.min.css            # Framework CSS
-│   └── styles.css                   # Estilos personalizados
-├── pages
-│   ├── nosotros.html                # Página sobre la historia de la tienda
-│   ├── tienda.html                  # Catálogo de productos
-│   ├── contacto.html                # Información de contacto
-│   ├── mi_carrito.html              # Carrito de compras
-│   └── error404.html                # Página de error 404
-├── index.html                       # Página principal del sitio
-├── README.md                        # Este archivo
-└── script
-    └── bootstrap.bundle.min.js      # Funcionalidad JS de Bootstrap
-
